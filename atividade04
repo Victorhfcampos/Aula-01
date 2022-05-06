@@ -1,4 +1,4 @@
 Liste 3 valores para cada tipo de variável
-53. 22. 71.
-"Celular" "Infinity" "Monitor"
-2.7 3.9 9.74 
+Int - 53. 22. 71.
+String - "Celular" "Infinity" "Monitor"
+Float - 2.7 3.9 9.74 
