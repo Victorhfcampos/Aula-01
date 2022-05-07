@@ -4,4 +4,6 @@ numero02 = 9
 numero03 = 7
 numero04 = 3
 print((numero01 + numero02 + numero03) / numero04)
-print("a média é", (8+9+7)/3)
+print("A média é", (8+9+7)/3)
+soma = 8+7+9
+print(soma/3)
