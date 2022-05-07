@@ -1,0 +1,7 @@
+print((8 + 9 + 7) / 3)
+numero01 = 8
+numero02 = 9
+numero03 = 7
+numero04 = 3
+print((numero01 + numero02 + numero03) / numero04)
+print("a média é", (8+9+7)/3)
