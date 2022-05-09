@@ -1,34 +1,10 @@
 #Atividade 10
 #Peça dois números ao usuário e mostre os resultados de uma calculadora básica:
-
-#numero01 = int(input("Número 01:"))
-#numero02 = int(input("Número 02:"))
-
-#soma = numero01 + numero02
-#print("A soma é", soma)
-
-#numero03 = int(input("Número 03:"))
-#numero04 = int(input("Número 04:"))
-#subtracao = numero03 - numero04
-
-#print("A subtração é", subtracao)
-
-#numero05 = int(input("Número 05:"))
-#numero06 = int(input("Número 06:"))
-#multiplicao = numero05 * numero06
-
-#print("A multiplicação é", multiplicao)
-
-#numero07 = int(input("Número 07:"))
-#numero08 = int(input("Número 08:"))
-#divisao = numero07 / numero08
-#print("A divisão é", divisao)
-
 num_01 = float(input("Digite o primeiro número:"))
 num_02 = float(input("Digite o segundo número:"))
 soma = num_01 + num_02
 subtracao = num_01 - num_02
-multiplicao = num_01 * num_02
+multiplicacao = num_01 * num_02
 divisao = num_01 / num_02
 print("A soma entre dois números é:", soma)
 print("A subtração entre dois números é:", subtracao)
