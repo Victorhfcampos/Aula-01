@@ -1,6 +1,0 @@
-print(10*50)
-multiplicacao = 10 * 50
-print(multiplicacao)
-numero01 = 10
-numero02 = 50
-print(numero01 * numero02)
